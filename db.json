@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": "enid",
+      "passwordHash": "4813494d137e1631bba301d5acab6e7bb7aa74ce1185d456565ef51d737677b2",
+      "name": "Enid Blyton"
+    },
+    {
+      "id": "william",
+      "passwordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "name": "William Shakespeare"
+    },
+    {
+      "id": "salman",
+      "passwordHash": "688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6",
+      "name": "Salman A"
+    }
+  ],
+  "articles": [
+    {
+      "title": "A Square Peg in a Round Hole",
+      "image": "https://miro.medium.com/max/1224/1*rl1R6C0Hq4e50oUKTdx5lw.jpeg",
+      "id": 9,
+      "name": "a-square-peg-in-a-round-hole",
+      "author": "Enid Blyton",
+      "content": [
+        "Those days, I looked forward to the warm comfort of sleep rather than the cold splashes of reality. The closest I came to feeling awake was when I fell asleep. It made me forget about everything else that was going on in my life. It made me forget about how tired I was.",
+        "I was tired of living. I was tired of pretending. I was tired of struggling.",
+        "All I wanted was an escape.",
+        "The struggles just kept growing as the days passed by. It kept piling up. And it kept piling up. The days became indistinguishable.",
+        "And I wept. I wept every day while trying to sleep.",
+        "I would twist and turn at night, trying to fall asleep. I couldn’t deal with the demons in my head, screwing with my sanity. At night, I would go in front of a mirror and just hate the reflection staring back at me. No matter how hard I worked, or how hard I boasted, I felt like I never amounted to anything properly. All I was was a huge bucket of wasted potential. When the first rays of the morning hit my bed, through the parted curtains, the hell would resume, reminding me over and over again, how useless I was. How futile my dreams were and how I was in a freefall.",
+        "The words would just repeat over and over in my ears. I was untidy. I was and am still searching for what religion means to me. I slept in and preferred to stay up at night. I was a procrastinator unless it was something I really cared about.",
+        "My parents were all abroad during this time. I was stuck in India, hence I had to go to a relative’s place. At first, it wasn’t that bad. But then, it just grew into something else.",
+        "I was the antichrist in their house. I was always scolded 24x7. Before going there, I had tons of self-love. But when someone criticizes you and mocks you over and over again, you gradually begin to believe them and I lost it. I lost all the love and trust I had in myself.",
+        "To this day, I have no idea whether or not I’ll really love myself the same way I used to.",
+        "The devilish whispers replay themselves in my head. I’ve slowly grown to ignore them. All I wanted was someone who would appreciate me for who I was. Well, I still don’t know if there is anyone who appreciates me for myself in my immediate family. Everyone wants me to be someone else. Eventually, I learned to pretend. But I don’t anymore. It’s so fake. Why act like something or someone you don't even care about?",
+        "I was bored and fed up, being cooped up in the house for so long with no one else to talk to. I started watching movies to cope up with it. For those two hours or so, everything felt so beautiful. I could just forget about my tears and drown in the laughs of the actors.",
+        "But then, when the movie ended, I realised that this was nothing but a huge act. I had to return to my normal life. Why did their lives have so much fun, while my life was stuck in a rut like this, became my constant question.",
+        "I used to write. I still do. I like to fancy myself as a writer. It only took a few taps of my keyboard for my protagonist to be happy. For him or her to get an understanding lover. For them to go on the most magical of journeys together. I created all the emotions that were in my story, without really being in control of my own emotions.",
+        "It became an escape. I became happy doing it. I began to feel complete.",
+        "Most people who have read my stories say that I write well. But I'm not sure. The people who I really wished would read my stories never did. They weren’t willing to peek through the windows to my soul whereas random strangers on the internet would do so. Maybe the only thing I really wanted was to feel acknowledged because I had always felt like a letdown, ever since my twelfth grade.",
+        "Every day, during the initial months of the lockdown and corona, I felt like I was nothing more than the digits scrawled onto my CBSE mark list and that quickly morphed into my entrance rank. I began to hate myself more and more.",
+        "Everyone around me rarely saw the person in me. They just saw the marks I got. A single piece of paper determined my life, damn.",
+        "And then, I added a new line!"
+      ]
+    },
+    {
+      "title": "What Is Blogging?",
+      "image": "https://www.thebalancesmb.com/thmb/RnTGoWY-dheBMpNRfOpn7eRvb78=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blogging-what-is-it-1794405-v2-5b60d316c9e77c0050f7eb9e.png",
+      "name": "what-is-blogging",
+      "author": "Salman A",
+      "content": [
+        "Blogging refers to writing, photography, and other media that's self-published online. Blogging started as an opportunity for individuals to write diary-style entries, but it has since been incorporated into websites for many businesses. The hallmarks of blogging include frequent updates, informal language, and opportunities for readers to engage and start a conversation.",
+        "Here's an overview of what a blog is, why it's popular, and tips for starting your own blog.",
+        "",
+        "What Is Blogging?",
+        "The word blog is actually a shortened form of its original name, \"weblog.\" These weblogs allowed early internet users to \"log\" the details of their day in diary-style entries. Blogs often allow readers to comment, so as they became more common, communities sprung up around popular blogs.",
+        "The content of blogs varies significantly. For example, travel blogs may feature many pictures with few written passages, while political blogs may weigh in with wordy takes on the news of the day. The popularity of YouTube and similar sites also gave rise to video blogging, or \"vlogging.\"",
+        "Like most internet-based innovations, many entrepreneurs saw marketing potential in having a blog, and the adoption of blogging among the business community helped further increase the popularity of the medium. Not only can a blog be used for marketing a business, but it can also become a home business in and of itself.",
+        "",
+        "How Blogging Works",
+        "Blogging is as simple as obtaining a website and publishing original content on it. Tech-savvy bloggers can buy a domain name and build the website themselves. Those with less HTML knowledge can create an account with sites like WordPress that simplify the web design and publishing process.",
+        "Blogs are usually simple websites. Older pieces may be archived in separate sections of the site, and there may be a separate page with contact info or a bio, but the blog itself is usually just a single page that can be scrolled through—similar to the news feed on social media sites like Facebook. As with a Facebook news feed, a blog displays the newest content at the top of the page.",
+        "All of the posts on a blog are usually created by a single author. However, when a company or organization maintains a blog, it may pay for blog content—either by hiring a team of writers or buying content to post.",
+        "Another unique feature of blogging is interlinking. This occurs when a blogger links to another person's blog within their own blog post. For example, if a music teacher maintains a blog, and they write a blog post about how to form a chord, they might link to a musician's blog to show an example of the chords in action. A political blogger may link to another politics blog and then discuss how they agree or disagree with a post on that blog. Interlinking, along with the comment section, fosters the sense of community that makes blogs unique."
+      ],
+      "id": 11
+    },
+    {
+      "title": "Living the New Normal",
+      "image": "https://miro.medium.com/max/875/0*npHiKh00E_4R-RY9",
+      "id": 10,
+      "name": "living-the-new-normal",
+      "author": "Enid Blyton",
+      "content": [
+        "Ever since lockdown started, this has been my brother’s constant refrain. He really misses school and friends. The last time he cried was because he didn’t want to go to school. Every day he would fall onto my grandmother’s lap, crying hysterically, begging to let him take the day off. He has lots of friends next to our house and he is the youngest in our family. However hard we try, no one was able to match his energy or entertain him for long. Everyone in the family took turns playing with him.",
+        "My little brother has become a very understanding and responsible child in this short time. He channels all his energy to help us out when we need something. My grandma runs a stationery store in front of our house. My brother has begun to identify every wholesaler’s arrival by the sound of their vehicle’s horn or the screech of the tires. It’s actually fascinating to see him pick up these voices and alert my grandma.",
+        "Parenting is hard. Parenting during a pandemic is even harder. Teaching my brother was the biggest of all our responsibilities. As the eldest sister, I was given the responsibility of teaching him. I knew I would be the worst primary school teacher even before I agreed to help him with his studies. Every day turned out to be another disastrous experiment.",
+        "Once, he couldn’t understand the question I was explaining. He was completely drained of energy. I was calling him stupid over and over again. He was not a bright student, but he wasn’t bad either. I remember crying harder than my little brother as I felt guilty. I was so angry with him that he almost gave up, and that broke me.",
+        "Finally, everyone decided that I shouldn’t be teaching him. I agreed and it actually did both of us good. Now I bite my tongue before I insult him and try to control my temper.",
+        "“I can’t do this anymore. We need to get out sometimes. I think it’s high time we went for a ride. Let's take the scooter and go somewhere. I need some air.”",
+        "I stared at her, unable to believe what she was saying. Was this really my mom speaking? My sister was super excited too. The pandemic had really changed us. My mom is a LIC agent. As my father is not well, she is mostly outdoors with her scooter for work. She is the one who goes to pick up supplies for our stationery store. Even my introverted sister didn't want to stay at home this time.",
+        "I have always been an extrovert, choosing to go out with friends over sitting inside the house. The pandemic came as a shock wave to me. But I adapted very fast and pretty soon I became confined to my room, not even getting up from my bed.",
+        "I still remember the day the college closed due to Covid. Most of us were sure it would not last more than a few weeks. Covid was nothing compared to Nipah, or so we thought. We welcomed the lockdown like it was a much-needed vacation and returned home in the hope to see each other soon. But it became the new normal. We have seen animals hibernating through wildfires and seeds springing to life after a long wait in those airtight jars. This pandemic was our time to lie low.",
+        "“Can’t you just keep your phone away for a little while?”",
+        "There wasn’t a day I didn’t hear someone tell me this. Well, until all of my family was forced to have a phone. My aunt couldn’t check in to work without a smartphone and even my grandma couldn’t attend her meetings with the self-help groups she was an active part of.",
+        "I used to brag about my minimal social media presence. But, oh boy, was I wrong! I don’t use many apps, but the very few that I do use, I'm addicted to completely. I found out that every week I actually dedicated a whole day to YouTube. That was really scary. Realising this, I tweaked my settings to warn me of overuse and finally began walking without my phones whenever possible. It wasn't easy but I became aware of how much technology was influencing me.",
+        "To begin with, I checked the time I spent on my phone. These little handheld accessories actually know too much about us. We can scroll down these digital pages and observe a lot about human society. The most obvious one is the mob mentality of people on the internet. Every word etched in ones and zeros are mines of information about us."
+      ]
+    },
+    {
+      "title": "Why is it so hard to get a SWE job?",
+      "image": "https://miro.medium.com/max/1400/1*mYTQe3aP6IxOVqFiy2C6qw.jpeg",
+      "name": "why-is-it-so-hard-to-get-a-swe-job",
+      "author": "Salman A",
+      "content": [
+        "The title of this post was a trending Quora question, with popular responses boiling down to “it’s not, the unemployment rate is 3.6%,” “there are too many developers and not enough engineers,” and “it’s a natural consequence of microeconomic theory.” It might be useful to elaborate on the last one, but I thought it would be a lot more fun to take a look at the absolute most popular answer:",
+        "“I was unemployed for many months. Waited hoping one day someone will hire me without requiring me to white-boarding. Yep it is worse than water-boarding. After 7 months I realized — no other choice. Now I can white board in my sleep. Companies are in line to talk to me. They are ready to send flowers and even ready to send drivers to pick me up.",
+        "Nothing changed”",
+        "— Aravind Akshan, Engineer Manager at [UNDISCLOSED]",
+        "Instead of providing a cliche response about the difference between developers and engineers, this legend pokes fun at the entire interviewing process. If you expand the other threads in this post, you will see a few arguments about whether or not the software engineer interviewing process is flawed.",
+        "In all seriousness, though, the response about economics is worth discussing. Job pay is heavily influenced by supply and demand. While there is a very high demand for software engineers, there are now 4.4 million software developers in the United States alone [Edited. The original sentence said “4.4 million software engineers”]. In other words, software engineers are not extremely rare, and a degree in computer science is not the golden ticket some people may expect. I think the popularity of computer science and the surge of coding bootcamps are a testament to how accepted this has become as a field.",
+        "Other possible reasons one may find it difficult to find a software engineering job:",
+        "At most companies I have interviewed with, it takes at least three interviews to get a job. This is elaborated on pretty well here, in an article by the BBC",
+        "Technical coding interviews are, for lack of a better description, “their own game.” You typically get between 30 minutes to an hour to solve a coding question that assesses your understanding of data structures and algorithms. Regardless of whether you think this is a good test, supporters and critics alike would agree that this is not what you actually do in the field — it’s just a test",
+        "Software is BROAD. You can be a frontend developer turning wireframes into a web application. You can be a backend engineer who works very closely with hardware. You can work at a company that cures cancer. You can work at a company that causes cancer. There is an incredible number of fields and roles you may have, and so we face the same scenario we face when dating: Companies will look for a very, very specific candidate with an exact set of skills, and sometimes things just don’t work out",
+        "I may be the first person in history with the gall to complain about this, but in coding interviews you usually get a choice of language. One drawback to this is that the engineer interviewing you, if he/she is human, will not be familiar with all of them. If you interview in a language they are unfamiliar with and have any issues, they may not be able to help you."
+      ],
+      "id": 12
+    },
+    {
+      "title": "The Fastest Way to Learn React",
+      "image": "https://wptavern.com/wp-content/uploads/2016/09/reactjs.png",
+      "name": "the-fastest-way-to-learn-react",
+      "author": "William Shakespeare",
+      "content": [
+        "Welcome! Today we're going to be talking about the fastest way to learn React. We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "This is actually by William Shakespeare!",
+        "For real."
+      ],
+      "id": 1
+    },
+    {
+      "title": "Afghanistan Meant Nothing",
+      "image": "https://miro.medium.com/max/640/1*S0cd4hoS7JoGjehfr_HKUg.png",
+      "id": 2,
+      "name": "afghanistan-meant-nothing",
+      "author": "Enid Blyton",
+      "content": [
+        "By the time you read this, the Taliban may already be in Kabul. If not now, then soon.",
+        "Nixon wanted — and got — his decent interval between the United States pullout of Vietnam and the inevitable North Vietnamese takeover. Afghanistan’s interval was never going to be decent, but I confess I expected an interval. We’re scrambling to leave in time, we’re racing for the helicopters as the Taliban burns through Afghanistan like a forest fire.",
+        "I remember Afghanistan well. I deployed there twice — once in 2008, and again in 2009–2010. It was already obvious that the Taliban would sweep through the very instant we left. And here we are today.",
+        "I know how bad the Taliban is. I know what they do to women and little boys. I know what they’re going to do to the interpreters and the people who cooperated with us, it’s awful, it’s bad, but we are leaving, and all I feel is grim relief.",
+        "This is what I remember:",
+        "I remember Afghanistan as a dusty beige nightmare of a place full of proud, brave people who did not fucking want us there. We called them Hajjis and worse and they were better than we were, braver and stronger and smarter.",
+        "I remember going through the phones of the people we detained and finding clip after clip of Bollywood musicals, women singing in fields of flowers. Rarely did I find anything incriminating.",
+        "I remember finding propaganda footage cut together from the Soviet invasion and our own Operation Enduring Whatever. I remember laughing about how stupid the Afghans were to not know we aren’t the Russians and then, eventually, realizing that I was the stupid one.",
+        "I remember how every year the US would have to decide how to deal with the opium fields. There were a few options. You could leave the fields alone, and then the Taliban would shake the farmers down and use the money to buy weapons. Or, you could carpet bomb the fields, and then the farmers would join the Taliban for reasons that, to me, seem obvious.",
+        "The third option, and the one we went for while I was there, was to give the farmers fertilizer as an incentive to grow wheat instead of opium poppy. The farmers then sold the fertilizer to the Taliban, who used it to make explosives for IEDs that could destroy a million dollar MRAP and maim everyone inside.",
+        "I remember we weren’t allowed to throw batteries away because people who worked on base would go through the trash and collect hundreds of dead batteries, wire them together so they had just enough juice for one charge, and use that charge to detonate an IED.",
+        "I remember the look on my roommate’s face after she got back from cutting the dead bodies of two soldiers out of an HMMWV that got blown up by an IED that I have always imagined was made with fertilizer from an opium farmer and detonated with a hundred thrown-out batteries.",
+        "I remember an Afghan kid who worked in the DFAC (cafeteria) who we called Cowboy. He always wore this cowboy hat and an “I’m with stupid” t-shirt someone had given him, always with a big smile, high school age.",
+        "Cowboy was a good student. His family, who all worked on base, was incredibly proud of him. He wanted to go to college in America. But there weren’t colleges that took Afghans, the education system was too shit. No program to help kids like him. I looked.",
+        "I wonder if he’s dead now, for serving us food and dreaming of something different.",
+        "But if Cowboy is dead then he died a long time ago, and if Cowboy is dead it’s our fault for going there in the first place, giving his family the option of trusting us when we are the least trustworthy people on the planet.",
+        "We use people up and throw them away like it’s nothing.",
+        "And now, finally, we are leaving and the predictable thing is happening. The Taliban is surging in and taking it all back. They were always going to do this, because they have a thing you cannot buy or train, they have patience and a bloody-mindedness that warrants more respect than we ever gave them.",
+        "I am Team Get The Fuck Out Of Afghanistan which, as a friend pointed out to me today, has always been Team Taliban. It’s Team Taliban or Team Stay Forever.",
+        "There is no third team.",
+        "And so I sit here, reading these sad fucking articles and these horrified social media posts about the suffering in Afghanistan and the horror of the encroaching Taliban and how awful it is that this is happening but I can’t stop feeling this grim happiness, like, finally, you fuckers, finally you have to face the thing Afghanistan has always been. You can’t keep lying to yourself about what you sent us into.",
+        "No more blown up soldiers. No more Bollywood videos on phones whose owners are getting shipped god knows where. No more hypocrisy.",
+        "No more pretending it meant anything. It didn’t.",
+        "It didn’t mean a goddamn thing.",
+        "Source: https://laurajedeed.medium.com/afghanistan-meant-nothing-9e3f099b00e5",
+        "Author: Laura Jedeed"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "my-thoughts-on-resumes",
+      "author": "Agatha Christie",
+      "title": "My Thoughts on Resumes",
+      "content": [
+        "Today is the day I talk about something which scares most people: resumes. In reality, I'm not sure why people have such a hard time with proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus. Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id consequat quam. Vivamus accumsan dui in facilisis aliquet."
+      ],
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d7d5cf17a8707000830f341%2FResume-development%2F960x0.jpg%3Ffit%3Dscale"
+    },
+    {
+      "id": 5,
+      "name": "learn-node",
+      "author": "Barbara Cartland",
+      "title": "How to Build a Node Server in Minutes",
+      "content": [
+        "In this article, we're going to be talking looking at a very quick way to set up a Node.js server. We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus. Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id consequat quam. Vivamus accumsan dui in facilisis aliquet."
+      ],
+      "image": "https://stackify.com/wp-content/uploads/2018/09/Learn-Node-881x441.jpg"
+    },
+    {
+      "id": 4,
+      "name": "learn-react",
+      "author": "Danielle Steel",
+      "title": "The Fastest Way to Learn React",
+      "content": [
+        "Welcome! Today we're going to be talking about the fastest way to learn React. We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet."
+      ],
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C3Jaj89n--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s1i3j6powyg7tclhwj5x.jpg"
+    },
+    {
+      "id": 6,
+      "name": "my-thoughts-on-resumes",
+      "author": "Harold Robbins",
+      "title": "My Thoughts on Resumes",
+      "content": [
+        "Today is the day I talk about something which scares most people: resumes. In reality, I'm not sure why people have such a hard time with proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus. Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id consequat quam. Vivamus accumsan dui in facilisis aliquet."
+      ],
+      "image": "https://www.tritoncanada.ca/assets/site/building-resume.png"
+    },
+    {
+      "id": 7,
+      "name": "learn-react",
+      "author": "Georges Simenon",
+      "title": "The Fastest Way to Learn React",
+      "content": [
+        "Welcome! Today we're going to be talking about the fastest way to learn React. We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet."
+      ],
+      "image": "https://cdn-media-1.freecodecamp.org/images/1*3WTslHrSuJfqlj3qZRRFPQ.png"
+    },
+    {
+      "title": "How to Build a Node Server in Minutes",
+      "image": "https://www.cloudsavvyit.com/p/uploads/2019/07/2350564e.png?width=1198&trim=1,1&bg-color=000&pad=1,1",
+      "id": 8,
+      "name": "how-to-build-a-node-server-in-minutes",
+      "author": "Enid Blyton",
+      "content": [
+        "In this article, we're going to be talking looking at a very quick way to set up a Node.js server. We'll be discussing some topics such as proin congue ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.  Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,  non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut  eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at  sodales purus euismod.",
+        "Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.  Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan  nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus  sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor  interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id  consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Etiam nec lectus urna. Sed sodales ultrices dapibus. Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id consequat quam. Vivamus accumsan dui in facilisis aliquet.",
+        "Does this work?"
+      ]
+    }
+  ]
+}
